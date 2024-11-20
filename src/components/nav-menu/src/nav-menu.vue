@@ -10,11 +10,11 @@
 
     <!-- 2.menu -->
     <div class="menu">
+      <!-- :unique-opened="true" -->
       <el-menu
         :default-active="activeMenu"
         :collapse="props.isFold"
         class="el-menu-vertical"
-        :unique-opened="true"
         :collapse-transition="false"
       >
         <!-- 多级菜单递归 -->
