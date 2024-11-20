@@ -2,7 +2,7 @@
   <div class="login-panel">
     <!-- 顶部标题 -->
     <div class="title">hello !</div>
-    <div class="title-tips">欢迎来到 CK Admin！</div>
+    <div class="title-tips">欢迎来到 cm cms！</div>
 
     <!-- 中间tab切换框 -->
     <!-- <el-tabs v-model="tabsName" type="border-card" stretch class="tabs">
